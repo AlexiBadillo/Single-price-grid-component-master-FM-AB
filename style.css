@@ -114,6 +114,7 @@ body {
     }
     .inferior-izquierdo {
         text-align: center;
+        height: max-content;
     }
     .inferior-izquierdo .minitext {
         margin: 0 auto;
